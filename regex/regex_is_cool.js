@@ -1,4 +1,4 @@
-function greeting(greet) {
-    console.log(greet);
-}
-greeting("Hello World people of God!");
+function greet(str){
+	console.log(str);
+};
+greet("Hello World!");
